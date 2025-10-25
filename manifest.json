@@ -1,0 +1,27 @@
+{
+  "name": "London New Year’s Eve Trip 2025 / 2026",
+  "short_name": "London 2025",
+  "description": "Dein digitaler Reiseplan für den London New Year’s Eve Trip 2025 / 2026 – mit Karten, Highlights, Food Picks und Wetter.",
+  "lang": "de-DE",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1222",
+  "theme_color": "#0f1222",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["travel", "navigation", "lifestyle"],
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
